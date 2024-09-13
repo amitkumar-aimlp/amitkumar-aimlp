@@ -1,4 +1,4 @@
-### HI THERE 👋
+## HI THERE 👋
 
 🔭 ABOUT ME:
 
@@ -10,16 +10,18 @@ Beyond the technical work, I’m deeply invested in the future of AI—actively 
 
 If you’re looking for an AI professional to drive digital transformation, optimize operations, and solve complex business problems, let’s connect.
 
-• Hard Skills: Artificial Intelligence (AI), Machine Learning (ML), Data Science (DS), Deep Learning, Natural Language Processing (NLP), Computer Vision (CV), AI-based Chatbots, Data Analytics, Data Engineering, Big Data Processing, Programming (Python, SQL, HTML, CSS), Cloud Computing (AWS, Azure, GCP), Data Visualization, DevOps/MLOps, AI Ethics and Governance, Business Intelligence, Digital Marketing
+- Hard Skills: Artificial Intelligence (AI), Machine Learning (ML), Data Science (DS), Deep Learning, Natural Language Processing (NLP), Computer Vision (CV), AI-based Chatbots, Data Analytics, Data Engineering, Big Data Processing, Programming (Python, SQL, HTML, CSS), Cloud Computing (AWS, Azure, GCP), Data Visualization, DevOps/MLOps, AI Ethics and Governance, Business Intelligence, Digital Marketing
 
-• Soft Skills: Project Management, Cross-functional Collaboration, Communication Skills, Problem-solving Skills, Critical Thinking, Adaptability, Strategic Thinking
+- Soft Skills: Project Management, Cross-functional Collaboration, Communication Skills, Problem-solving Skills, Critical Thinking, Adaptability, Strategic Thinking
 
-## Refer the following pages for details:
+[My LinkedIn Profile](https://www.linkedin.com/in/amitkumar-aimlp)
+
+### Refer the following pages for details:
 1. [Projects Main Branch](https://github.com/amitkumar-aimlp/projects)
 2. [Projects Release Updates](https://github.com/amitkumar-aimlp/projects/releases)
 3. [Projects Connected Website](https://amitkumar-aimlp.github.io/projects/)
 4. [AIML Projects - Tabular Format](https://github.com/amitkumar-aimlp/projects/wiki/AIML-Projects)
 5. [AIML Certifications -Tabular Format](https://github.com/amitkumar-aimlp/projects/wiki/Certifications)
-6. [LinkedIn Profile](https://www.linkedin.com/in/amitkumar-aimlp)
+
 
 Thank You. 😄
