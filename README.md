@@ -1,4 +1,4 @@
-### Hi There 👋
+### HI THERE 👋
 
 🔭 ABOUT ME:
 
@@ -14,6 +14,12 @@ If you’re looking for an AI professional to drive digital transformation, opti
 
 • Soft Skills: Project Management, Cross-functional Collaboration, Communication Skills, Problem-solving Skills, Critical Thinking, Adaptability, Strategic Thinking
 
-[LinkedIn Profile](https://www.linkedin.com/in/amitkumar-aimlp)
+## Refer the following pages for details:
+1. [Projects Main Branch](https://github.com/amitkumar-aimlp/projects)
+2. [Projects Release Updates](https://github.com/amitkumar-aimlp/projects/releases)
+3. [Projects Connected Website](https://amitkumar-aimlp.github.io/projects/)
+4. [AIML Projects - Tabular Format](https://github.com/amitkumar-aimlp/projects/wiki/AIML-Projects)
+5. [AIML Certifications -Tabular Format](https://github.com/amitkumar-aimlp/projects/wiki/Certifications)
+6. [LinkedIn Profile](https://www.linkedin.com/in/amitkumar-aimlp)
 
-Thank You.😄
+Thank You. 😄
